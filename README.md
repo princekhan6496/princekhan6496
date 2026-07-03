@@ -184,19 +184,6 @@ AI-powered codebase understanding platform capable of generating architecture do
 
 ---
 
-# 📊 GitHub
-
-Recommended widgets:
-
-- GitHub Stats
-- GitHub Streak
-- Top Languages
-- Activity Graph
-- Contribution Snake
-- GitHub Trophy
-- Visitor Counter
-
----
 
 # 📫 Connect
 
